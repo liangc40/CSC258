@@ -1,0 +1,342 @@
+do test1.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:18:44 on Nov 26,2018
+# vlog -reportprogress 300 -timescale 1ns/1ns snake.v 
+# -- Compiling module vga_adapter
+# -- Compiling module vga_address_translator
+# -- Compiling module vga_controller
+# -- Compiling module vga_pll
+# -- Compiling module hexdecoder
+# -- Compiling module square_coord
+# -- Compiling module control
+# -- Compiling module datapath
+# -- Compiling module up_counter
+# -- Compiling module time_counter
+# -- Compiling module frame_counter
+# -- Compiling module snake
+# -- Compiling module snake_object
+# -- Compiling module control_top
+# -- Compiling module datapath_top
+# -- Compiling module test
+# 
+# Top level modules:
+# 	square_coord
+# 	frame_counter
+# 	snake
+# 	test
+# End time: 19:18:44 on Nov 26,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim test 
+# Start time: 19:18:44 on Nov 26,2018
+# Loading work.test
+# Loading work.hexdecoder
+# Loading work.time_counter
+# Loading work.snake_object
+# Loading work.datapath_top
+# Loading work.control_top
+do test1.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:20:22 on Nov 26,2018
+# vlog -reportprogress 300 -timescale 1ns/1ns snake.v 
+# -- Compiling module vga_adapter
+# -- Compiling module vga_address_translator
+# -- Compiling module vga_controller
+# -- Compiling module vga_pll
+# -- Compiling module hexdecoder
+# -- Compiling module square_coord
+# -- Compiling module control
+# -- Compiling module datapath
+# -- Compiling module up_counter
+# -- Compiling module time_counter
+# -- Compiling module frame_counter
+# -- Compiling module snake
+# -- Compiling module snake_object
+# -- Compiling module control_top
+# -- Compiling module datapath_top
+# -- Compiling module test
+# 
+# Top level modules:
+# 	square_coord
+# 	frame_counter
+# 	snake
+# 	test
+# End time: 19:20:22 on Nov 26,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 19:20:25 on Nov 26,2018, Elapsed time: 0:01:41
+# Errors: 0, Warnings: 0
+# vsim test 
+# Start time: 19:20:25 on Nov 26,2018
+# Loading work.test
+# Loading work.hexdecoder
+# Loading work.time_counter
+# Loading work.snake_object
+# Loading work.datapath_top
+# Loading work.control_top
+# Break key hit
+# Break in Module snake_object at snake.v line 177
+# Control-C interrupt
+# 
+# MACRO ./test1.do PAUSED at line 29
+do test1.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:27:36 on Nov 26,2018
+# vlog -reportprogress 300 -timescale 1ns/1ns snake.v 
+# -- Compiling module vga_adapter
+# -- Compiling module vga_address_translator
+# -- Compiling module vga_controller
+# -- Compiling module vga_pll
+# -- Compiling module hexdecoder
+# -- Compiling module square_coord
+# -- Compiling module control
+# -- Compiling module datapath
+# -- Compiling module up_counter
+# -- Compiling module time_counter
+# -- Compiling module frame_counter
+# -- Compiling module snake
+# -- Compiling module snake_object
+# -- Compiling module control_top
+# -- Compiling module datapath_top
+# -- Compiling module test
+# 
+# Top level modules:
+# 	square_coord
+# 	frame_counter
+# 	snake
+# 	test
+# End time: 19:27:36 on Nov 26,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 19:27:37 on Nov 26,2018, Elapsed time: 0:07:12
+# Errors: 0, Warnings: 0
+# vsim test 
+# Start time: 19:27:37 on Nov 26,2018
+# Loading work.test
+# Loading work.hexdecoder
+# Loading work.time_counter
+# Loading work.snake_object
+# Loading work.datapath_top
+# Loading work.control_top
+# Break key hit
+# Simulation stop requested.
+# Control-C interrupt
+# 
+# MACRO ./test1.do PAUSED at line 29
+do test1.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# ** Error: (vlog-2102) Bad specification for -timescale option.
+# Errors: 1, Warnings: 0
+# ** Error: /s/appspace/quartus-17.0.0.595/modelsim_ase/linuxaloem/vlog failed.
+# Error in macro ./test1.do line 3
+# /s/appspace/quartus-17.0.0.595/modelsim_ase/linuxaloem/vlog failed.
+#     while executing
+# "vlog -timescale 1ns snake.v"
+do test1.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:31:45 on Nov 26,2018
+# vlog -reportprogress 300 -timescale 1ns/1ps snake.v 
+# -- Compiling module vga_adapter
+# -- Compiling module vga_address_translator
+# -- Compiling module vga_controller
+# -- Compiling module vga_pll
+# -- Compiling module hexdecoder
+# -- Compiling module square_coord
+# -- Compiling module control
+# -- Compiling module datapath
+# -- Compiling module up_counter
+# -- Compiling module time_counter
+# -- Compiling module frame_counter
+# -- Compiling module snake
+# -- Compiling module snake_object
+# -- Compiling module control_top
+# -- Compiling module datapath_top
+# -- Compiling module test
+# 
+# Top level modules:
+# 	square_coord
+# 	frame_counter
+# 	snake
+# 	test
+# End time: 19:31:45 on Nov 26,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 19:31:47 on Nov 26,2018, Elapsed time: 0:04:10
+# Errors: 4, Warnings: 0
+# vsim test 
+# Start time: 19:31:47 on Nov 26,2018
+# Loading work.test
+# Loading work.hexdecoder
+# Loading work.time_counter
+# Loading work.snake_object
+# Loading work.datapath_top
+# Loading work.control_top
+# Break key hit
+# Simulation stop requested.
+# Control-C interrupt
+# 
+# MACRO ./test1.do PAUSED at line 29
+do test1.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:34:33 on Nov 26,2018
+# vlog -reportprogress 300 -timescale 1ns/1ns snake.v 
+# -- Compiling module vga_adapter
+# -- Compiling module vga_address_translator
+# -- Compiling module vga_controller
+# -- Compiling module vga_pll
+# -- Compiling module hexdecoder
+# -- Compiling module square_coord
+# -- Compiling module control
+# -- Compiling module datapath
+# -- Compiling module up_counter
+# -- Compiling module time_counter
+# -- Compiling module frame_counter
+# -- Compiling module snake
+# -- Compiling module snake_object
+# -- Compiling module control_top
+# -- Compiling module datapath_top
+# -- Compiling module test
+# 
+# Top level modules:
+# 	square_coord
+# 	frame_counter
+# 	snake
+# 	test
+# End time: 19:34:34 on Nov 26,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# End time: 19:34:34 on Nov 26,2018, Elapsed time: 0:02:47
+# Errors: 0, Warnings: 0
+# vsim test 
+# Start time: 19:34:34 on Nov 26,2018
+# Loading work.test
+# Loading work.hexdecoder
+# Loading work.time_counter
+# Loading work.snake_object
+# Loading work.datapath_top
+# Loading work.control_top
+do test1.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:40:05 on Nov 26,2018
+# vlog -reportprogress 300 -timescale 1ns/1ns snake.v 
+# -- Compiling module vga_adapter
+# -- Compiling module vga_address_translator
+# -- Compiling module vga_controller
+# -- Compiling module vga_pll
+# -- Compiling module hexdecoder
+# -- Compiling module square_coord
+# -- Compiling module control
+# -- Compiling module datapath
+# -- Compiling module up_counter
+# -- Compiling module time_counter
+# -- Compiling module frame_counter
+# -- Compiling module snake
+# -- Compiling module snake_object
+# -- Compiling module control_top
+# -- Compiling module datapath_top
+# -- Compiling module test
+# 
+# Top level modules:
+# 	square_coord
+# 	frame_counter
+# 	snake
+# 	test
+# End time: 19:40:05 on Nov 26,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 19:40:06 on Nov 26,2018, Elapsed time: 0:05:32
+# Errors: 0, Warnings: 0
+# vsim test 
+# Start time: 19:40:06 on Nov 26,2018
+# Loading work.test
+# Loading work.hexdecoder
+# Loading work.time_counter
+# Loading work.snake_object
+# Loading work.datapath_top
+# Loading work.control_top
+# ** Error: ambiguous command name "n": nameWidget namespace namespaceOf ncFyP12 neqTime newdsn_image next nodeFolder noforce nolog normalizePath notifyValueMonitorTimeChange notify_trees noview nowhen null
+# Error in macro ./test1.do line 37
+# ambiguous command name "n": nameWidget namespace namespaceOf ncFyP12 neqTime newdsn_image next nodeFolder noforce nolog normalizePath notifyValueMonitorTimeChange notify_trees noview nowhen null
+#     while executing
+# "n 500000ns"
+do test1.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:41:50 on Nov 26,2018
+# vlog -reportprogress 300 -timescale 1ns/1ns snake.v 
+# -- Compiling module vga_adapter
+# -- Compiling module vga_address_translator
+# -- Compiling module vga_controller
+# -- Compiling module vga_pll
+# -- Compiling module hexdecoder
+# -- Compiling module square_coord
+# -- Compiling module control
+# -- Compiling module datapath
+# -- Compiling module up_counter
+# -- Compiling module time_counter
+# -- Compiling module frame_counter
+# -- Compiling module snake
+# -- Compiling module snake_object
+# -- Compiling module control_top
+# -- Compiling module datapath_top
+# -- Compiling module test
+# 
+# Top level modules:
+# 	square_coord
+# 	frame_counter
+# 	snake
+# 	test
+# End time: 19:41:50 on Nov 26,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 19:41:53 on Nov 26,2018, Elapsed time: 0:01:47
+# Errors: 3, Warnings: 0
+# vsim test 
+# Start time: 19:41:53 on Nov 26,2018
+# Loading work.test
+# Loading work.hexdecoder
+# Loading work.time_counter
+# Loading work.snake_object
+# Loading work.datapath_top
+# Loading work.control_top
+do test1.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:58:02 on Nov 26,2018
+# vlog -reportprogress 300 -timescale 1s/1s snake.v 
+# -- Compiling module vga_adapter
+# -- Compiling module vga_address_translator
+# -- Compiling module vga_controller
+# -- Compiling module vga_pll
+# -- Compiling module hexdecoder
+# -- Compiling module square_coord
+# -- Compiling module control
+# -- Compiling module datapath
+# -- Compiling module up_counter
+# -- Compiling module time_counter
+# -- Compiling module frame_counter
+# -- Compiling module snake
+# -- Compiling module snake_object
+# -- Compiling module control_top
+# -- Compiling module datapath_top
+# -- Compiling module test
+# 
+# Top level modules:
+# 	square_coord
+# 	frame_counter
+# 	snake
+# 	test
+# End time: 19:58:02 on Nov 26,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 19:58:02 on Nov 26,2018, Elapsed time: 0:16:09
+# Errors: 0, Warnings: 0
+# vsim test 
+# Start time: 19:58:02 on Nov 26,2018
+# Loading work.test
+# Loading work.hexdecoder
+# Loading work.time_counter
+# Loading work.snake_object
+# Loading work.datapath_top
+# Loading work.control_top
+# End time: 20:00:30 on Nov 26,2018, Elapsed time: 0:02:28
+# Errors: 0, Warnings: 0

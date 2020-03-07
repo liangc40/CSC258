@@ -1,0 +1,87 @@
+do test1.do
+# Cannot open macro file: test1.do
+
+
+
+
+pwd
+# /h/u14/c6/01/saynorat/Desktop/final_project
+cd snake
+do test1.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:36:42 on Nov 21,2018
+# vlog -reportprogress 300 -timescale 1ns/1ns snake.v 
+# -- Compiling module vga_adapter
+# -- Compiling module vga_address_translator
+# -- Compiling module vga_controller
+# -- Compiling module vga_pll
+# -- Compiling module hexdecoder
+# -- Compiling module square_coord
+# -- Compiling module control
+# -- Compiling module datapath
+# -- Compiling module up_counter
+# -- Compiling module snake
+# -- Compiling module snake_object
+# -- Compiling module control_top
+# -- Compiling module datapath_top
+# -- Compiling module test
+# 
+# Top level modules:
+# 	snake
+# 	test
+# End time: 21:36:43 on Nov 21,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim test 
+# Start time: 21:36:43 on Nov 21,2018
+# Loading work.test
+# Loading work.hexdecoder
+# Loading work.snake_object
+# Loading work.datapath_top
+# Loading work.square_coord
+# Loading work.control
+# Loading work.datapath
+# Loading work.up_counter
+# Loading work.control_top
+do test1.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:40:11 on Nov 21,2018
+# vlog -reportprogress 300 -timescale 1ns/1ns snake.v 
+# -- Compiling module vga_adapter
+# -- Compiling module vga_address_translator
+# -- Compiling module vga_controller
+# -- Compiling module vga_pll
+# -- Compiling module hexdecoder
+# -- Compiling module square_coord
+# -- Compiling module control
+# -- Compiling module datapath
+# -- Compiling module up_counter
+# -- Compiling module snake
+# -- Compiling module snake_object
+# -- Compiling module control_top
+# -- Compiling module datapath_top
+# -- Compiling module test
+# 
+# Top level modules:
+# 	snake
+# 	test
+# End time: 21:40:11 on Nov 21,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 21:40:12 on Nov 21,2018, Elapsed time: 0:03:29
+# Errors: 0, Warnings: 0
+# vsim test 
+# Start time: 21:40:12 on Nov 21,2018
+# Loading work.test
+# Loading work.hexdecoder
+# Loading work.snake_object
+# Loading work.datapath_top
+# Loading work.square_coord
+# Loading work.control
+# Loading work.datapath
+# Loading work.up_counter
+# Loading work.control_top
+# WARNING: No extended dataflow license exists
+# FATAL ERROR: Unable to read lock file necessary for use of uncounted nodelocked license. Exiting.
+# End time: 21:45:13 on Nov 21,2018, Elapsed time: 0:05:01
+# Errors: 0, Warnings: 0
